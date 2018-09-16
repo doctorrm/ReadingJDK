@@ -19,5 +19,4 @@ Github上也没有这样的项目，而JDK的源码注释对多数国人着实�
 <h2>**捐赠项目ReadingJDK**</h2>
 如果认可本人的劳动成果，可以请作者喝杯96年的Java牌咖啡吗？（一杯咖啡就是对我最大的鼓舞了~~~）
 
-
-![](IMAGES/wechat-pay2.png)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](IMAGES/alipay4.png)
+![](IMAGES/pay.png)
